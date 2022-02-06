@@ -1,0 +1,23 @@
+ignores: [
+  # dependencies
+  "@nestjs/common",
+  "@nestjs/core",
+  "@nestjs/platform-express",
+  "reflect-metadata",
+  "rxjs",
+  # devDependencies
+  "depcheck", 
+  "@commitlint/cli", 
+  "@commitlint/config-conventional",
+  "@nestjs/schematics",
+  "@nestjs/testing",
+  "@types/express",
+  "@types/node",
+  "@types/supertest",
+  "source-map-support",
+  "supertest",
+  "ts-loader",
+  "ts-node",
+  "tsconfig-paths",
+  "prettier",
+]
